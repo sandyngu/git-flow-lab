@@ -29,18 +29,24 @@
   },
   {
     "id": 5,
+    "title": "Moon River",
+    "artist": "Frank Ocean",
+    "releaseDate": "2018"
+  },
+  {
+    "id": 6,
     "title": "Mr. Blue Sky",
     "artist": "Electric Light Orchestra",
     "releaseDate": "1977"
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "A Song",
     "artist": "Will Smith",
     "releaseDate":"2020"
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "Hector's song",
     "artist": "Random",
     "releaseDate": "2020"
