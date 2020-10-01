@@ -28,6 +28,12 @@
     "releaseDate": "2017"
   },
   {
+    "id": 5,
+    "title": "A Song",
+    "artist": "Will Smith",
+    "releaseDate":"2020"
+  },
+  {
     "id": 7,
     "title": "Hector's song",
     "artist": "Random",
