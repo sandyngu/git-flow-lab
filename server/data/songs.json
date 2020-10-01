@@ -32,5 +32,17 @@
     "title": "Mr. Blue Sky",
     "artist": "Electric Light Orchestra",
     "releaseDate": "1977"
+  },
+  {
+    "id": 6,
+    "title": "A Song",
+    "artist": "Will Smith",
+    "releaseDate":"2020"
+  },
+  {
+    "id": 7,
+    "title": "Hector's song",
+    "artist": "Random",
+    "releaseDate": "2020"
   }
 ]
